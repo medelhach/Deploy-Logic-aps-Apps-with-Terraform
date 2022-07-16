@@ -21,3 +21,9 @@ Apply CI/CD best practices to your workflows and take advantage of built-in tool
 * Enable private endpoints, simplified virtual network access, and deployment slots.
 * Develop, debug, and test on Windows, MacOS, and Linux using Visual Studio Code.
 * Deploy multiple workflows to a single logic app, simplifying automated deployments and CI/CD pipelines.
+
+# Boost productivity with seamless, automated, business-critical workflows—without writing code
+
+* Create large, complex workflows, and view more steps at the same time without scrolling.
+* Support stateless workflows to enhance performance for request and response scenarios.
+* Get near real-time telemetry with integrated support for Application Insights.
