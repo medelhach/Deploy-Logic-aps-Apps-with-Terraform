@@ -17,7 +17,7 @@ Apply CI/CD best practices to your workflows and take advantage of built-in tool
 
 # Develop, deploy, and run anywhere
 
-** Deploy and run logic applications in Azure, locally, and on premises.
-** Enable private endpoints, simplified virtual network access, and deployment slots.
-** Develop, debug, and test on Windows, MacOS, and Linux using Visual Studio Code.
-** Deploy multiple workflows to a single logic app, simplifying automated deployments and CI/CD pipelines.
+* Deploy and run logic applications in Azure, locally, and on premises.
+* Enable private endpoints, simplified virtual network access, and deployment slots.
+* Develop, debug, and test on Windows, MacOS, and Linux using Visual Studio Code.
+* Deploy multiple workflows to a single logic app, simplifying automated deployments and CI/CD pipelines.
