@@ -1,2 +1,2 @@
-# I alredy write a repository talking about Terraform here is the link go check it .
+# I already wrote a repository talking about Terraform here's the link go check it .
 https://github.com/medelhach/terraform
